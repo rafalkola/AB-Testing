@@ -66,5 +66,5 @@ The analysis demonstrates how A/B testing can be used to assess product changes 
 
 ---
 
-***Note***: The CSV datasets used in this analysis are synthetic and not included in the repository.  
+**Note**: The CSV datasets used in this analysis are synthetic and not included in the repository.  
 If you would like to reproduce the results, please contact me or refer to the code structure to simulate data.
