@@ -35,6 +35,13 @@ Three key performance indicators (KPIs) are used to measure the impact:
 
 ---
 
+## Tableau Dashboard
+
+You can explore the interactive dashboard here:  
+🔗 https://public.tableau.com/app/profile/rafal.kolakowski/viz/Book1_17429045148440/Dashboard1?publish=yes
+
+---
+
 ## Key Findings (Synthetic Example)
 
 - **Purchase Rate**: Test group 25% vs. Control group 20%
