@@ -23,7 +23,7 @@ Three key performance indicators (KPIs) are used to measure the impact:
     ├── products.csv           # Product metadata
     └── users.csv              # User-level metadata including group assignment (test/control)
 
-**Note: The CSV datasets used in this analysis are synthetic and not included in the repository.  
+Note: The CSV datasets used in this analysis are synthetic and not included in the repository.  
 If you would like to reproduce the results, please contact me or refer to the code structure to simulate data.
 ---
 
