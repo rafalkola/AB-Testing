@@ -59,10 +59,9 @@ You can explore the interactive dashboard here:
 
 ---
 
-> **Disclaimer**: All datasets used in this project are synthetically generated for portfolio and educational purposes. They do not represent real users or business data.
-
 ## Conclusion
 
 The analysis demonstrates how A/B testing can be used to assess product changes in a data-driven way. In this synthetic case, the new recommendation engine led to improvements across all three KPIs.
 
 ---
+> **Disclaimer**: All datasets used in this project are synthetically generated for portfolio and educational purposes. They do not represent real users or business data.
