@@ -22,6 +22,9 @@ Three key performance indicators (KPIs) are used to measure the impact:
     ├── interactions.csv       # User interaction logs with recommended products
     ├── products.csv           # Product metadata
     └── users.csv              # User-level metadata including group assignment (test/control)
+
+**Note**: The CSV datasets used in this analysis are synthetic and not included in the repository.  
+If you would like to reproduce the results, please contact me or refer to the code structure to simulate data.
 ---
 
 ## Methodology
@@ -62,6 +65,3 @@ You can explore the interactive dashboard here:
 ## Conclusion
 
 The analysis demonstrates how A/B testing can be used to assess product changes in a data-driven way. In this synthetic case, the new recommendation engine led to improvements across all three KPIs.
-
----
-> **Disclaimer**: All datasets used in this project are synthetically generated for portfolio and educational purposes. They do not represent real users or business data.
