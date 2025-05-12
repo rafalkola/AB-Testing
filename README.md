@@ -12,8 +12,16 @@ Three key performance indicators (KPIs) are used to measure the impact:
 
 ---
 
-## Project Structure 
-``` AB-TESTING/ │ ├── A:B_Testing.ipynb # Main Jupyter Notebook with analysis and visualizations ├── Book1.twb # Tableau dashboard (optional visualization layer) ├── df_full.csv # Merged dataset with users, interactions, and product info ├── interactions.csv # User interaction logs with recommended products ├── products.csv # Product metadata └── users.csv # User-level metadata including group assignment (test/control) ```
+## Project Structure
+
+    AB-TESTING/
+    │
+    ├── A:B_Testing.ipynb      # Main Jupyter Notebook with analysis and visualizations
+    ├── Book1.twb              # Tableau dashboard (optional visualization layer)
+    ├── df_full.csv            # Merged dataset with users, interactions, and product info
+    ├── interactions.csv       # User interaction logs with recommended products
+    ├── products.csv           # Product metadata
+    └── users.csv              # User-level metadata including group assignment (test/control)
 ---
 
 ## Methodology
